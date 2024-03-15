@@ -1,0 +1,2 @@
+date, oagap, mipgap, mode, ntk T day, realub, ub, lb, gap, cpu, nodes, unfeas, feas, adjust, cpu_cb, ub_best, cpu_best, ub_1st, cpu_1st
+230302-1744, 0.01, 1e-06, RECORD, FSD s 24 1, 155.09, 155.09, 155.09, -0.0, 2.0, 1104, 21, 13, 0, 0.5, 155.09, 1.9, 157.8, 0.6
